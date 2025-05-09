@@ -1,0 +1,35 @@
+{
+  "name": "project-1",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kallur-nethravathi/project-1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kallur-nethravathi/project-1/issues"
+  },
+  "homepage": "https://github.com/kallur-nethravathi/project-1#readme",
+  "dependencies": {
+    "argon2": "^0.43.0",
+    "aws-sdk": "^2.1692.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "moment-timezone": "^0.5.48",
+    "mongoose": "^8.14.1",
+    "openid-client": "^5.7.0",
+    "tweetnacl": "^1.0.3",
+    "tweetnacl-util": "^0.15.1",
+    "uuidv7": "^1.0.2",
+    "winston": "^3.17.0"
+  },
+  "description": ""
+}
